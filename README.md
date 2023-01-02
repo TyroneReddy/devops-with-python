@@ -1,3 +1,5 @@
+[![Github Actions for Devops with python](https://github.com/TyroneReddy/devops-with-python/actions/workflows/devopss.yml/badge.svg)](https://github.com/TyroneReddy/devops-with-python/actions/workflows/devopss.yml)
+
 # devops-with-python
 
 # scaffold
