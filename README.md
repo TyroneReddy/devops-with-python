@@ -1,11 +1,15 @@
 # devops-with-python
 
-## scaffold
+# scaffold
 - makefile
 - requirements.txt
 - source code
 - tests
 - docker file
 
-# Create python virtual environment
-`python3 -m venv ~/.venv ` or `virtualenv ~/.venv`
+# Steps
+
+1. Create python virtual environment `python3 -m venv .venv ` or `virtualenv .venv`
+2. Create empty files : `Makefile` `Dockerfile` `main.py` `src/__init__.py`
+3. Populate `Makefile`
+
