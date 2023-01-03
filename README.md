@@ -15,3 +15,7 @@
 2. Activate .venv `source .venv/bin/activate`
 3. Create empty files : `Makefile` `Dockerfile` `main.py` `src/__init__.py`
 4. Populate `Makefile`
+5. Set up continuous integration using Github Actions
+
+
+6. Build CLI tool using Python Fire library `./cli-fire.py --help` to test logic
