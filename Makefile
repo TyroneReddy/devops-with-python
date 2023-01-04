@@ -17,6 +17,5 @@ build:
 run:
 	#run docker
 	docker run -p 127.0.0.1:8000:8000 63d8d1dcc0f4
-deploy:
-	#deploy
-all: install format lint test build deploy
+
+all: install format lint test build
